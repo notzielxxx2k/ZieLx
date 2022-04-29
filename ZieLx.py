@@ -1,9 +1,9 @@
-    import threading
-    import socket
-    import random
-    import sys
-    import time 
-    import os
+import threading
+import socket
+import random
+import sys
+import time 
+import os
     
 except ImportError as e:
     print(f"\033[1;31m[Kesalahan] \033[0m\xBB {e}")
